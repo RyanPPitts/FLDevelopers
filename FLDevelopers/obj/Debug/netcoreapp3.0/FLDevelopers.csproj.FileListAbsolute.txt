@@ -1,0 +1,10 @@
+/Users/ryanpitts/Projects/FLDevelopers/FLDevelopers/bin/Debug/netcoreapp3.0/FLDevelopers
+/Users/ryanpitts/Projects/FLDevelopers/FLDevelopers/bin/Debug/netcoreapp3.0/FLDevelopers.deps.json
+/Users/ryanpitts/Projects/FLDevelopers/FLDevelopers/bin/Debug/netcoreapp3.0/FLDevelopers.runtimeconfig.json
+/Users/ryanpitts/Projects/FLDevelopers/FLDevelopers/bin/Debug/netcoreapp3.0/FLDevelopers.runtimeconfig.dev.json
+/Users/ryanpitts/Projects/FLDevelopers/FLDevelopers/bin/Debug/netcoreapp3.0/FLDevelopers.dll
+/Users/ryanpitts/Projects/FLDevelopers/FLDevelopers/bin/Debug/netcoreapp3.0/FLDevelopers.pdb
+/Users/ryanpitts/Projects/FLDevelopers/FLDevelopers/obj/Debug/netcoreapp3.0/FLDevelopers.AssemblyInfoInputs.cache
+/Users/ryanpitts/Projects/FLDevelopers/FLDevelopers/obj/Debug/netcoreapp3.0/FLDevelopers.AssemblyInfo.cs
+/Users/ryanpitts/Projects/FLDevelopers/FLDevelopers/obj/Debug/netcoreapp3.0/FLDevelopers.dll
+/Users/ryanpitts/Projects/FLDevelopers/FLDevelopers/obj/Debug/netcoreapp3.0/FLDevelopers.pdb
