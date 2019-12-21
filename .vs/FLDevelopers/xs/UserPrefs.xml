@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{453717CD-A252-432B-889C-D2CFB84803C7}|Default">
-  <MonoDevelop.Ide.ItemProperties.FLDevelopers FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FLDevelopers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="FLDevelopers/Program.cs">
     <Files>
-      <File FileName="FLDevelopers/Program.cs" Line="2" Column="1" />
+      <File FileName="FLDevelopers/Program.cs" Line="31" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
